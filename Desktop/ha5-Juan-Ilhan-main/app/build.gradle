@@ -34,7 +34,7 @@ dependencies {
     implementation 'org.springframework.boot:spring-boot-starter'
     developmentOnly 'org.springframework.boot:spring-boot-devtools'
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
-    implementation 'org.springframework.shell:spring-shell-starter:2.0.1.RELEASE'
+    implementation 'org.springframework.shell:spring-shell-starter:2.0.0.RELEASE'
 }
 
 tasks.named('test') {
